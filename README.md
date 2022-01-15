@@ -3,7 +3,7 @@ L4T Multimedia API for ffmpeg
 
 **1.build and install library**
 
-    git clone https://github.com/jocover/jetson-ffmpeg.git
+    git clone https://github.com/dlavrantonis/jetson-ffmpeg.git
     cd jetson-ffmpeg
     mkdir build
     cd build
